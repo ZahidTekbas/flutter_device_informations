@@ -1,6 +1,8 @@
 # battery_app
 
-A new Flutter project.
+A Flutter project that fetchs informations about device such as version, OS, kernel version etc.
+
+To create required project files, you may use 'flutter create .' command to populate iOS, Android and build files inside Flutter project. 
 
 ## Getting Started
 
