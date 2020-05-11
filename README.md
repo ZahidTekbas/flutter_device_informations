@@ -4,6 +4,9 @@ A Flutter project that fetchs informations about device such as version, OS, ker
 
 To create required project files, you may use 'flutter create .' command to populate iOS, Android and build files inside Flutter project. 
 
+<img src="ss1.png" width="350" height="700" />
+<img src="ss2.png" width="350" height="700" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
